@@ -46,7 +46,7 @@ echo                       1. activar hotspot
 echo                       2. desctivar hotspot
 echo                       3. mostrar interfaces 
 echo                       4. network-settings 
-echo                       5. GOOD-INFO
+echo                       5.  Informacion de systema
 echo                       6. Informacion de network
 echo                       7. Salir
 set /p menu=Entra una opcion:
