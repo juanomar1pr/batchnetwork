@@ -47,7 +47,7 @@ echo                       2. desctivar hotspot
 echo                       3. mostrar interfaces 
 echo                       4. network-settings 
 echo                       5. GOOD-INFO
-echo		                   6. Informacion de network
+echo                       6. Informacion de network
 echo                       7. Salir
 set /p menu=Entra una opcion:
 if "%menu%"=="1" start NETSH WLAN start hostednetwork
